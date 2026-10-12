@@ -30,3 +30,8 @@ rich>=13.7.0
 
 # Retry + robustness
 tenacity>=8.2.0
+python-dotenv
+streamlit
+langchain
+langchain-google-genai
+tavily-python
